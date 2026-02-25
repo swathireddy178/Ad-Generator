@@ -10,7 +10,7 @@ An AI-powered web application that generates marketing advertisements using Open
 
 ## 📸 Application Preview
 
-![App Screenshot](ad_generator.jpeg)
+![App Screenshot](ad generator.jpeg)
 
 ## 🛠️ Tech Stack
 - Python
