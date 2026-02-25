@@ -8,6 +8,10 @@ An AI-powered web application that generates marketing advertisements using Open
 - Save ads to Firebase
 - Simple and interactive UI
 
+## 📸 Application Preview
+
+![App Screenshot](ad_generator.jpeg)
+
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
